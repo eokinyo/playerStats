@@ -1,0 +1,19 @@
+# Core
+pandas>=2.0
+numpy>=1.25
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9          # pandas.read_html backend
+
+# Storage
+# sqlite3 is part of the Python standard library — no install needed
+
+# Visualisation
+matplotlib>=3.8
+mplsoccer>=1.3     # pitch plots and shot maps
+seaborn>=0.13
+Pillow>=10.0       # image export
+
+# Utilities
+python-dotenv>=1.0 # for API keys stored in .env
+tqdm>=4.66         # progress bars during scraping

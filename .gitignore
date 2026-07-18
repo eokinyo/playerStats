@@ -1,0 +1,28 @@
+# Secrets
+.env
+
+# Browser profile (scraping session/cache data)
+ingestion/.fbref_browser_profile/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated outputs
+output/
+
+# Databases
+*.db
+
+# Scraped/derived data
+data/*/raw/
+data/*/processed/
+
+# API exploration artifacts
+understat_getLeagueData_sample.json
+understat_getMatchData_sample.json
+
+# OS
+.DS_Store
+Thumbs.db
