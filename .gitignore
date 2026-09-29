@@ -26,3 +26,6 @@ understat_getMatchData_sample.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Local directory listing
+folder-structure.txt
