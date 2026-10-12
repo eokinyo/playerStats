@@ -56,4 +56,4 @@ On macOS or Linux, use `python3 -m venv ~/.cache/venvs/playerStats`, `source ~/.
 
 ## Licence
 
-No licence has been chosen for this repository yet, so all rights are reserved by default. Third-party data fetched by the code is not covered by any licence here and stays under each provider's terms.
+The code is released under the MIT License, see [LICENSE](LICENSE). The licence covers the code in this repository only. Third-party data fetched by the code is not included and stays under each provider's terms.
